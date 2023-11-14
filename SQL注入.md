@@ -37,4 +37,7 @@ eg:
 Dumb' and updateXML(1,concat("~~",database(),"~~"),3) #
 ```
 
-hjksdagkjgjk
+```sql
+select
+```
+
