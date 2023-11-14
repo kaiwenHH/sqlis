@@ -36,3 +36,5 @@ new_value：新的值，将替代匹配的 XML 元素的内容。
 eg:
 Dumb' and updateXML(1,concat("~~",database(),"~~"),3) #
 ```
+
+hjksdagkjgjk
