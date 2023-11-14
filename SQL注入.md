@@ -8,7 +8,7 @@
 ```sql
 语法：ExtractValue(target, xpath)
 
-target：包含XML数据的列或XML文档
+target：包含XML数据的列或XML文档 
 xpath：XPath 表达式，指定要提取的数据路径。
 
 eg:
